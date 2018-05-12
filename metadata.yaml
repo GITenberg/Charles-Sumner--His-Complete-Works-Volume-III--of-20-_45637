@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1986
     wikipedia: http://en.wikipedia.org/wiki/Charles_Sumner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45637#Charles-Sumner--His-Complete-Works-Volume-III--of-20-
 gutenberg_issued: '2014-05-13'
 gutenberg_type: Text
 identifiers:
